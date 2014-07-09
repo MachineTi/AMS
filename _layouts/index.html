@@ -1,0 +1,99 @@
+<!doctype html>
+<html class="no-js" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AMS Aftermarket | Welcome</title>
+    <link rel="stylesheet" href="css/foundation.css" />
+    <script src="js/vendor/modernizr.js"></script>
+    <style>
+    body {
+  background: black;
+    }
+    .maincontent {
+        background:#1c1c1c url(img/bg.jpg) no-repeat;
+        background-size: 100%;
+        border-left: 1px solid #666666;
+        border-right: 1px solid #666666;
+
+        -webkit-box-shadow: 0px 0px 53px 7px rgba(255,255,255,0.43);
+        -moz-box-shadow: 0px 0px 53px 7px rgba(255,255,255,0.43);
+        box-shadow: 0px 0px 53px 7px rgba(255,255,255,0.43);
+    }
+    .logo {
+        width: 100%;
+        padding-bottom: 25%;
+    }
+    .contain-to-grid {
+        border-top: 1px solid #666666;
+        border-bottom: 1px solid #666666;
+    }
+    .topbar {
+        background:#eee;
+    }
+    </style>
+  </head>
+  <body>
+
+  
+
+    <div class="row maincontent">
+
+<div class="logo">
+<!--img src="img/logo.png" width="100%"/-->
+</div>
+
+<div class="contain-to-grid">
+  <nav class="top-bar" data-topbar>
+  <ul class="title-area">
+    <li class="name">
+      <h1><a href="#">AMS</a></h1>
+    </li>
+     <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+    <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+  </ul>
+
+  <section class="top-bar-section">
+    <!-- Right Nav Section -->
+    <ul class="right">
+      <li ><a href="#">CONTACT</a></li>
+      
+    </ul>
+
+    <!-- Left Nav Section -->
+    <ul class="left">
+      <!--li class="active has-dropdown">
+        <a href="#">PRODUCTS</a>
+        <ul class="dropdown"-->
+          <li><a href="#">Explorer Procomp</a></li>
+          <li><a href="#">Procomp Wheels</a></li>
+          <li><a href="#">Bestop</a></li>
+          <li><a href="#">Wheel</a></li>
+          <li><a href="#">Bushwacker</a></li>
+          <li><a href="#">Smittybilt</a></li>
+          <li><a href="#">Nekarth</a></li>
+          <li><a href="#">Parts </a></li>
+        <!--/ul>
+      </li-->
+    </ul>
+  </section>
+</nav>
+    <div style="clear:both" ></div>
+</div>
+    
+     
+
+    <div class="row" style="padding:20px;">
+
+    {{ content }}
+
+    </div>
+</div>
+    
+    <script src="js/vendor/jquery.js"></script>
+    <script src="js/foundation.min.js"></script>
+    <script>
+      $(document).foundation();
+    </script>
+  </body>
+</html>
