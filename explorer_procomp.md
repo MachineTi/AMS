@@ -9,4 +9,4 @@ Explorer Competition Products Inc of Chula Vista, California, USA is a leading d
 
 Explorer Pro Comp manufactures products for most 4X4 vehicles available on the SA market. Apart from a wide range of suspension accessories, shock absorbers and steering stabilizers, Explorer Pro Comp also offers high quality lighting products, batteries, differential covers, wheels and tires.
 
-For more info, go to <a href="http://WWW.PROCOMPUSA.COM/" target="_blank">WWW.PROCOMPUSA.COM</a>
+For more info, go to [WWW.PROCOMPUSA.COM](WWW.PROCOMPUSA.COM)
