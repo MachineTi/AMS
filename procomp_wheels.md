@@ -1,45 +1,6 @@
 ---
 layout: index
+published: true
 ---
 
-      <div class="large-8 medium-8 columns">
-        <h1>Welcome to AMS</h1>
-        <p>Aftermarket sales was established 1986 by Heyns du Plessis, who has been in the auto parts business for many years. He started importation of general auto replacement parts, including <strong>Alfa Romeo</strong> and <strong>Jeep</strong> spares which he has been supplying for many years. He has since expanded into the 4x4 market by securing sole imports/distribution of <strong>Procomp suspension products and wheels</strong> and the <strong>Bestop</strong> range. Other lines imported include
-<strong>Bushwacker</strong>,
-<strong>US Wheels</strong>,
-<strong>Rock Krawler Suspensions</strong>,
-<strong>Nekarth Kaiser Lockers</strong>
-
-and <strong>Smittybilt</strong>. Other imports from Europe include lines such as water pumps, brake discs, cylinders and kits, engine parts, gaskets, rubber components, suspension parts and restoration parts for older model Alfa Romeo &amp; Jeep vehicles.</p>
-<h5>We specialize in:</h5>
-<ul>
-<li> Factory authorised dealer / distributor / stockist for Procomp and Smittybilt products since 1994.
-</li>
-<li>
-European manufactured spares and replacement parts for most makes of motor vehicles</li>
-<li> Explorer Procomp 4X4 suspension systems and accessories (sole importer)</li>
-<li> Bestop 4X4 accessories (sole importer)</li>
-<li> US Wheels (sole importer)</li>
-<li> Jeep&reg; and Alfa Romeo replacement parts</li>
-<li> Procomp Wheels</li>
-</ul>
-<p>Aftermarket Sales has a network of 16 appointed dealers in South Africa, Namibia and Botswana stocking the Explorer Procomp range of products. Bestop, US Wheels and the motor vehicle replacement parts are distributed from the Aftermarket Sales offices in Laser Park, Honeydew.<br />
-</p>
-      </div>     
-
-
-
-      <div class="large-4 medium-4 columns"><div class="panel radius">
-			  <h5>Contact us:</h5>
-<p>Aftermarket Sales <br />
-    P O Box 390<br />
-    Featherbrooke<br />
-    1746</p>
-  <p>Tel : +27 11 662 1283</p>
-  <p>e-mail: <a href="mailto:after@global.co.za">after@global.co.za</a></p></td>
-  
-  
-        </div></div>
-
-
-
+## Procomp Wheels
