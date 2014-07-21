@@ -23,7 +23,7 @@ European manufactured spares and replacement parts for most makes of motor vehic
 <li> Jeep&reg; and Alfa Romeo replacement parts</li>
 <li> Procomp Wheels</li>
 </ul>
-<p>Aftermarket Sales products are provided through a network of dealers in South Africa, Namibia and Botswana.<br />
+<p>Aftermarket Sales has a network of 16 appointed dealers in South Africa, Namibia and Botswana stocking the Explorer Procomp range of products. Bestop, US Wheels and the motor vehicle replacement parts are distributed from the Aftermarket Sales offices in Laser Park, Honeydew.<br />
 </p>
       </div>     
 
