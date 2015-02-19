@@ -4,18 +4,20 @@ published: true
 ---
 
 #Sheriff Skid Plates
-![](/images/mainskid.jpg)
+
+<img src="/images/mainskid.jpg" align="center">
+
 A skid plate is a metal construction that protects engine bay mechanisms from damage, dust and mud.
 
 **Product characteristics:**
-- Steel / Aluminium
-- High corrosion resistance (840 hrs SST)
-- Easy installation
-- Service and ventilation apertures
-- Rubber shock absorbers
-- Powder coating
-- Mounting on regular apertures
-- Salt Spray Test
+* Steel / Aluminium
+* High corrosion resistance (840 hrs SST)
+* Easy installation
+* Service and ventilation apertures
+* Rubber shock absorbers
+* Powder coating
+* Mounting on regular apertures
+* Salt Spray Test
 
 **Product range:**
 More thhan 2500 different skid plates for almost any vehicle!
