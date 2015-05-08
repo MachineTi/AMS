@@ -24,74 +24,8 @@ More than 2500 different skid plates for almost any vehicle!
 
 ##### Tested according to car manufacturer's requirements
 All tests required by manufacturers have been successfully passed giving you peace of mind.
-=======
----
-layout: index
-published: true
----
 
-#Sheriff Skid Plates
-
-A skid plate is a metal construction that protects engine bay mechanisms from damage, dust and mud.
-
-<div id="bx_flv_player_920872902_div"></div>
-<script>
-window.bxPlayerOnloadbx_flv_player_920872902 = function()
-{
-	jwplayer("bx_flv_player_920872902_div").setup(
-{'file':'http://cat.karter.ru/upload/TOYOTA1609_2.flv',
-'height':'550',
-'width':'960',
-'players':[
-{'type':'html5'
-},
-{'type':'flash',
-'src':'http://cat.karter.ru/bitrix/components/bitrix/player/mediaplayer/player.swf'
-}],
-'dock':true,
-'id':'bx_flv_player_920872902',
-'controlbar':'bottom',
-'logo.hide':'true',
-'bufferlength':'10',
-'provider':'video',
-'abouttext':'',
-'aboutlink':'http://www.1c-bitrix.ru/products/cms/features/mediaplayer.php'
-});
-
-	};
-
-if (window.jwplayer) // jw script already loaded
-{
-	setTimeout(bxPlayerOnloadbx_flv_player_920872902, 100);
-}
-else
-{
-	BX.addCustomEvent(window, "onPlayerJWScriptLoad", function(){setTimeout(bxPlayerOnloadbx_flv_player_920872902, 100);});
-	if (!window.bPlayerJWScriptLoaded)
-	{
-		window.bPlayerJWScriptLoaded = true;
-		// load jw scripts once
-		BX.loadScript('/bitrix/components/bitrix/player/mediaplayer/jwplayer.js', function(){setTimeout(function()
-		{
-			BX.onCustomEvent(window, "onPlayerJWScriptLoad");
-		}, 100);});
-	}
-}
-</script>
-
-**Product characteristics:**
-- Steel / Aluminium
-- High corrosion resistance (840 hrs SST)
-- Easy installation
-- Service and ventilation apertures
-- Rubeer shock absorbers
-- Powder coating
-- Mounting on regular apertures
-- Salt Spray Test
-
-**Product range:**
-More thhan 2500 different skid plates for almost any vehicle you own!
-
-**Tested according to car manufacturer's requirements**
-All tests required by manufacturers have been successfully passed giving you peace of mind.
+For more information:
+- [Skidplate Manufacturer and Catalog](http://www.engineprotect.com/)
+- [Toyota Skidplates (video!)](http://cat.karter.ru/en/)
 
