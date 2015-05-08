@@ -25,7 +25,7 @@ More than 2500 different skid plates for almost any vehicle!
 ##### Tested according to car manufacturer's requirements
 All tests required by manufacturers have been successfully passed giving you peace of mind.
 
-For more information:
-- [Skidplate Manufacturer and Catalog](http://www.engineprotect.com/)
-- [Toyota Skidplates (video!)](http://cat.karter.ru/en/)
+##### For more information:
+* [Skidplate Manufacturer and Catalog](http://www.engineprotect.com/)
+* [Toyota Skidplates (video!)](http://cat.karter.ru/en/)
 
